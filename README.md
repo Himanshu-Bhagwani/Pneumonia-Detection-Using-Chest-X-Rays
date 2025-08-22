@@ -1,1 +1,0 @@
-# Pneumonia-Detection-Using-Chest-X-Rays
