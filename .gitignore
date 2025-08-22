@@ -1,0 +1,19 @@
+# Dataset folder
+chest_xray/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter Notebook Checkpoints (if you're using them)
+.ipynb_checkpoints/
